@@ -1,4 +1,4 @@
-name: AdamLaRosa
+name: The Australian Actor
 favicon: null
 layout_spectrum: 0.85274
 typography_spectrum: 0.65466
@@ -23,7 +23,7 @@ color:
     - '#dbd0cc'
     - '#6a7467'
   brandStrength: 0.1875
-  lightness: 0.727869751630351
+  lightness: 0.5
   saturation: 0.4087716236244887
   rhythmicContrast: 0.28187659941613674
 purpose: []
