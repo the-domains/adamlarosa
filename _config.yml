@@ -1,0 +1,28 @@
+name: AdamLaRosa
+favicon: null
+layout_spectrum: 0.08689292147755623
+typography_spectrum: 0.7594847977161407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3709243081975728
+  lightness: 0.727869751630351
+  saturation: 0.4087716236244887
+  rhythmicContrast: 0.28187659941613674
+purpose: []
