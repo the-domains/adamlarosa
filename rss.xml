@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AdamLaRosa]]></title>
-        <description><![CDATA[AdamLaRosa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Australian Actor]]></title>
+        <description><![CDATA[The Australian Actor]]></description>
+        <link>https://thegrid.ai/adamlarosa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 14:24:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 14:31:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adamlarosa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adam La Rosa]]></title>
             <description><![CDATA[<article><h1>Adam La Rosa</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa769a3e-2d4a-4bbb-b8ad-f37cb6829b30.jpg"></article>]]></description>
-            <link>undefined3cbb6ad8-aab1-4657-8267-e34e51558e36/index.html</link>
+            <link>https://thegrid.ai/adamlarosa/3cbb6ad8-aab1-4657-8267-e34e51558e36/index.html</link>
             <guid isPermaLink="false">3cbb6ad8-aab1-4657-8267-e34e51558e36</guid>
-            <pubDate>Fri, 15 Apr 2016 14:24:46 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 14:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
