@@ -1,7 +1,7 @@
 name: AdamLaRosa
 favicon: null
-layout_spectrum: 0.08689292147755623
-typography_spectrum: 0.7594847977161407
+layout_spectrum: 0.8781
+typography_spectrum: 0.65466
 title: The Australian Actor
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.3709243081975728
+    - '#2d2c34'
+    - '#fbffff'
+    - '#b8b0b1'
+    - '#dbd0cc'
+    - '#6a7467'
+  brandStrength: 0.1875
   lightness: 0.727869751630351
   saturation: 0.4087716236244887
   rhythmicContrast: 0.28187659941613674
